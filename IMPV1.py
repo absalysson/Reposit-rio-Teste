@@ -11,7 +11,7 @@ pdfReader = PyPDF2.PdfFileReader (pdfFileObj)
 imprimir = (pdfReader.numPages)
 print(imprimir)
 pageObj = pdfReader.getPage(1)
-
+trazer = "valores"
 
 # extrai texto do objeto
 ##imprimir2 = (pageObj.extractText())
