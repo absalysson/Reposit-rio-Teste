@@ -6,6 +6,9 @@ def check_reboot()
 
 
 
+#adicionando comentario
+
+
 
 return os.path.exist("/run/reboot-required")
 
