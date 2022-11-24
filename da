@@ -1,0 +1,72 @@
+[33mcommit 4db709995127bf55444781e93419c03bedb5d609[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: alysson <absalysson@hotmail.com>
+Date:   Fri Nov 11 12:49:27 2022 -0300
+
+    Arquivo deletado para teste, função 'RM'
+
+ IMPV2.py | 28 [31m----------------------------[m
+ 1 file changed, 28 deletions(-)
+
+[33mcommit 252658d56d31bf348e5ca74c56ab86f56e3c427c[m
+Author: alysson <absalysson@hotmail.com>
+Date:   Thu Nov 10 22:24:18 2022 -0300
+
+    Ajustes com o path -p
+
+ shebang.py | 5 [32m+++[m[31m--[m
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+
+[33mcommit 299c2be780c03950a2ad7fb71ffcef7b39fc5700[m
+Author: alysson <absalysson@hotmail.com>
+Date:   Thu Nov 10 22:02:18 2022 -0300
+
+    Retorna mensagem de erro caso tenha reinicializao pendente
+
+ shebang.py | 14 [32m+++++++++++++[m[31m-[m
+ 1 file changed, 13 insertions(+), 1 deletion(-)
+
+[33mcommit 13f94c321256fa723455539026d5386f9c0fc12a[m
+Author: alysson <absalysson@hotmail.com>
+Date:   Thu Nov 10 21:43:11 2022 -0300
+
+    AJUSTE DIRETO DO GIT GIT COMMIT -A SEM FAZER O ADD
+
+ IMPV1.py | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit d657c06402de04fe7811911ea796a9e86c19876b[m
+Author: alysson <absalysson@hotmail.com>
+Date:   Thu Nov 10 11:06:07 2022 -0300
+
+    Adicionamos uma nova função ao comando com o python
+
+ shebang.py | 6 [32m++++[m[31m--[m
+ 1 file changed, 4 insertions(+), 2 deletions(-)
+
+[33mcommit 6f7208f2061f662a08a471f7232f69c122254fc8[m
+Author: alysson <absalysson@hotmail.com>
+Date:   Thu Nov 10 10:51:16 2022 -0300
+
+    criado um  arquivo em python com o nome shebang
+
+ shebang.py | 8 [32m++++++++[m
+ 1 file changed, 8 insertions(+)
+
+[33mcommit c30c8a78e4b7c333beb13b9b571ad783a3233fe0[m
+Author: alysson <absalysson@hotmail.com>
+Date:   Wed Nov 9 21:28:38 2022 -0300
+
+    Adicionei novas mudanças
+
+ IMPV1.py | 28 [32m++++++++++++++++++++++++++++[m
+ IMPV2.py |  2 [32m+[m[31m-[m
+ 2 files changed, 29 insertions(+), 1 deletion(-)
+
+[33mcommit 97c07a98e90986508ede9298b90c4c19922f6e31[m
+Author: alysson <absalysson@hotmail.com>
+Date:   Tue Nov 8 22:09:35 2022 -0300
+
+    primeiro arquivo alocado dentro do git
+
+ IMPV2.py | 28 [32m++++++++++++++++++++++++++++[m
+ 1 file changed, 28 insertions(+)
