@@ -4,7 +4,7 @@ import sys
 
 
 def check_reboot():
-
+##teste do reverse
 #returns true if the  computer has a pending reboot
 #adicionando comentario
 #adicionando mais um comentario inutil
