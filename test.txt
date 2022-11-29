@@ -7,7 +7,7 @@ def check_reboot():
 
 #returns true if the  computer has a pending reboot
 #adicionando comentario
-
+#adicionando mais um comentario inutil
 return os.path.exists("/run/reboot-required")
 
 def main():
